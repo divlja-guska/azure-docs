@@ -37,7 +37,7 @@ Use the Form Recognizer client library for .NET to:
 
 [!INCLUDE [create resource](../includes/create-resource.md)]
 
-After you get a key and endpoint, [create environment variables](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account#configure-an-environment-variable-for-authentication) for the key and endpoint, named `FORM_RECOGNIZER_KEY` and `FORM_RECOGNIZER_ENDPOINT`, respectively.
+After you get a key and endpoint, [create environment variables](https://docs.microsoft.com/azure/cognitive-services/cognitive-services-apis-create-account#configure-an-environment-variable-for-authentication) for the key and endpoint, named `FORM_RECOGNIZER_SUBSCRIPTION_KEY` and `FORM_RECOGNIZER_ENDPOINT`, respectively.
 
 ### Create a new C# application
 
